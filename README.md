@@ -13,6 +13,35 @@
 * 🖥️ MySQL Workbench or another SQL database environment.
 
 ---
+# 🏥 Clinic Booking System
+
+## 📋 Description
+
+A relational database system for managing patient appointments, doctor specializations, and medical records for a clinic.
+
+Built using MySQL and supports:
+- Patient and doctor records
+- Appointment scheduling
+- Specialization tagging (M-M)
+- Storing medical history
+
+## 🚀 How to Set Up
+
+1. Install MySQL Server
+2. Open your MySQL client (e.g., MySQL Workbench)
+3. Run the `clinic_booking_system.sql` file
+4. The tables will be created and ready to use
+
+## 🧠 ERD (Entity Relationship Diagram)
+
+📷 Screenshot: ![ERD Screenshot](link_to_erd_image.png)
+
+Or view here: [Link to ERD](https://your-erd-tool-link.com)
+
+## 📂 Files
+
+- `clinic_booking_system.sql`: SQL schema with all `CREATE TABLE` statements
+- `README.md`: Project overview and setup instructions
 
 
 ## 📝 Submission Instructions  
